@@ -44,3 +44,5 @@ using UIActivityViewController
 4. output.
 
   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Share/main/output%201.png)
+  
+  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Share/main/output%202.png)
