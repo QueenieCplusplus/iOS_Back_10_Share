@@ -6,6 +6,10 @@ using UIActivityViewController
 
 2. info property setup.
 
+
+3. UI object setup on StoryBoard.
+
+
 3. code.
 
         //  ViewController.swift
