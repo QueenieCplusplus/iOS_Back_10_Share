@@ -3,6 +3,7 @@ using UIActivityViewController
 
 1. image setup.
 
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Share/main/imageSet%201.png)
 
 2. info property setup.
 
