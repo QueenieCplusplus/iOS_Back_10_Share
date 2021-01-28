@@ -6,6 +6,8 @@ using UIActivityViewController
 
 2. info property setup.
 
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Share/main/info%20property%20list.png)
+
 
 3. UI object setup on StoryBoard.
 
