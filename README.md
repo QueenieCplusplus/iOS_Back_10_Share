@@ -11,6 +11,8 @@ using UIActivityViewController
 
 3. UI object setup on StoryBoard.
 
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_10_Share/main/Button%20Action%20.png)
+
 
 3. code.
 
